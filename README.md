@@ -1,6 +1,6 @@
 # vue-todo
 
-> A simple todo app in VueJs 
+> A simple todo app in Vue.js
 
 ## Build Setup
 
